@@ -1,7 +1,6 @@
 import socket
 import hashlib
 import datetime
-import json
 
 
 def start_server(host='localhost', port=80, active_users=10):
